@@ -46,7 +46,7 @@ Clicking into the attendance summary metrics will open up the full attendence da
 
 ![](screenshots/5.png)
 
-Like the others, there is filtering and drill through capability simply by clicking in a particular area.  The Headwinds and Tailwinds categories in the right-hand column refer to the Academic Support Index - http://academicsupportindex.blogspot.com/2017/01/part-one-introduction-to-academic.html.
+Like the others, there is filtering and drill through capability simply by clicking in a particular area.  The Headwinds and Tailwinds categories in the right-hand column refer to the <a href="http://academicsupportindex.blogspot.com/2017/01/part-one-introduction-to-academic.html">Academic Support Index</a>.
 
 
 
