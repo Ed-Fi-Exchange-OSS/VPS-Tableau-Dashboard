@@ -8,7 +8,7 @@ This project is a set of Tableau dashboards created to assist with analytics and
 - Ed-Fi Data Standard 3.2
 
 ## Installation
-Stand-up your own Ed-Fi ODS and populate with data from your Student Information System via an API or Ed-Fi data loader tool. Build and connect the provided Early Warning System (EWS) datamart Model to your Ed-Fi ODS.  Connect your Tableau software to the Data Mart and create the visualizations and publish to the server of your choice.  
+Stand-up your own Ed-Fi ODS and populate with data from your Student Information System via an API or Ed-Fi data loader tool. Build and connect the provided <a href="https://github.com/Ed-Fi-Exchange-OSS/VPS-Tableau-Dashboard/commit/03d951e74dc608fac2c402f3b0d87b47e197892b">Early Warning System</a> (EWS) datamart Model to your Ed-Fi ODS.  Connect your Tableau software to the Data Mart and create the visualizations and publish to the server of your choice.  
 
 
 ![](screenshots/1.png)
